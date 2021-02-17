@@ -1,0 +1,18 @@
+{
+  "name": "firstnodeserver",
+  "version": "1.0.0",
+  "description": "Node Server",
+  "main": "server.js",
+  "dependencies": {
+    "chai": "^4.3.0"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node server.js"
+  },
+  "author": "Janae",
+  "license": "ISC"
+}
